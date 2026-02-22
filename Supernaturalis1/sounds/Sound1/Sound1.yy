@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Sound1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":145.00266,
+  "exportDir":"",
+  "name":"Sound1",
+  "parent":{
+    "name":"Supernaturalis1",
+    "path":"Supernaturalis1.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Sound1.mp3",
+  "volume":1.0,
+}
